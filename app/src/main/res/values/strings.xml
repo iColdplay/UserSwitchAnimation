@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UserSwitchAnimation</string>
+    <string name="password_error">Password wrong, please set it again!</string>
+    <string name="password_not_long">Password is not enough, please set it again!</string>
+    <string name="password_confirm_failed">Password confirm failed，please set it again!</string>
+    <string name="password_error_same">Main system and Secure system should not use the same password，please set it again!</string>
+    <string name="password_set_successfully">Password set successfully！\n Main system password：</string>
+    <string name="secure_password">Secure system password：</string>
+    <string name="confirm_and_start">Click confirm to start!</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="main_system_password">Main system password：</string>
+    <string name="confirm_main_system">Confirm main system password：</string>
+    <string name="secure_systen_password">Secure system password：</string>
+    <string name="confirm_secure_system_password">Confim secure system password：</string>
+</resources>

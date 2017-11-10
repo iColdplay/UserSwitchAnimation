@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UserSwitchAnimation</string>
+    <string name="password_error">密码设置不正确，请重新设置</string>
+    <string name="password_not_long">密码不足6位，请重新设置</string>
+    <string name="password_confirm_failed">密码确认失败，请重新设置</string>
+    <string name="password_error_same">初始系统与安全系统密码不能相同，请重新设置</string>
+    <string name="password_set_successfully">密码设置成功！\n初始系统密码：</string>
+    <string name="secure_password">安全系统密码：</string>
+    <string name="confirm_and_start">点击确认开始使用安全系统</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="main_system_password">初始系统密码：</string>
+    <string name="confirm_main_system">确认初始系统密码：</string>
+    <string name="secure_systen_password">安全系统密码：</string>
+    <string name="confirm_secure_system_password">确认安全系统密码：</string>
+</resources>
